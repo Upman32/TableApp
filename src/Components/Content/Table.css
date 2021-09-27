@@ -1,0 +1,15 @@
+.Table-header {
+    background-color: rgb(61, 59, 59);
+    color: rgb(212, 214, 218);
+    padding: 10px;
+    text-align: left;
+}
+
+
+.BRat-Row {
+    background-color: rgb(65, 63, 65);
+}
+
+.Other-Row {
+    background-color: greenyellow
+}
